@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="app_sign_in">Sign In</string>
+    <string name="chat_demonstrate">Chat with friends..</string>
+    <string name="signs_enter_name">Enter Your Name</string>
+    <string name="chat_hint_enter_your_message">Enter your message.</string>
+</resources>
